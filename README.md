@@ -4,6 +4,7 @@ GEMESYS Repository on GitHub
 Initial Public Repository - Creation date: January 26, 2016
 
 Update: Android APK files (Android Package files) for GEMESYS Android apps (gDosBox, APL's and GNUplot37)  - May 20, 2019
+
         Note: All these APK files have been signed by: GEMESYS Ltd.
         Previous versions of these programs are available on the Google Playstore, and we are attempting to update
         the Playstore version of these apps.  These are 32-bit apps, but should run on 64-bit Android devices.
